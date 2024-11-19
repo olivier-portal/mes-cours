@@ -4,7 +4,7 @@
 
 ###### Les opérateurs
 
-[forEach](https://gitlab.com/olivier_portal/mes-cours/-/blob/master/Languages/javascript/04-array.md#foreach) | 
+[forEach](https://github.com/olivier-portal/mes-cours/-/blob/master/Languages/javascript/04-array.md#foreach) | 
 [map](https://gitlab.com/olivier_portal/mes-cours/-/blob/master/Languages/javascript/04-array.md#map)  | 
 [filter](https://gitlab.com/olivier_portal/mes-cours/-/blob/master/Languages/javascript/04-array.md#filter) | 
 [sort](https://gitlab.com/olivier_portal/mes-cours/-/blob/master/Languages/javascript/04-array.md#sort) | 
