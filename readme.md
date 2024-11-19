@@ -47,7 +47,7 @@
 [input](https://github.com/olivier-portal/mes-cours/blob/main/Languages/angular/06-les%20inputs.md#input) | 
 [service](https://github.com/olivier-portal/mes-cours/blob/main/Languages/angular/06-les%20inputs.md#les-services) | 
 [click](https://github.com/olivier-portal/mes-cours/blob/main/Languages/angular/07-click%20output%20et%20event%20emitter.md#cr%C3%A9er-un-click) | 
-[event emitter](https://github.com/olivier-portal/mes-cours/blob/main/Languages/angular/07-click%20output%20et%20event%20emitter.md#event-emitter) | 
+[event emitter](https://github.com/olivier-portal/mes-cours/blob/main/languages/angular/07-click%20output%20et%20event%20emitter.md#event-emitter) | 
 [behavior subject](https://github.com/olivier-portal/mes-cours/blob/main/Languages/angular/07-click%20output%20et%20event%20emitter.md#behavior-subject) | 
 [unsubscribe](https://github.com/olivier-portal/mes-cours/blob/main/Languages/angular/08-unsubscribe.md#unsubscribe) | 
 [onDestroy](https://github.com/olivier-portal/mes-cours/blob/main/Languages/angular/08-unsubscribe.md#ondestroy) | 
