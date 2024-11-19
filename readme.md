@@ -10,7 +10,7 @@
 [sort](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#sort) | 
 [push](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#push) | 
 [concat](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#concat) | 
-[splice](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#splice) 
+[splice](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#splice) |
 [slice](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#slice)| 
 [reduce](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#reduce) | 
 [find](https://github.com/olivier-portal/mes-cours/blob/main/languages/javascript/04-array.md#find) | 
@@ -64,7 +64,7 @@
 
 ## Recherche par languages :
 
-* [markdown](https://github.com/olivier-portal/mes-cours/blob/main/Languages/markdown/markdown.md)
+* [markdown](https://github.com/olivier-portal/mes-cours/blob/main/languages/markdown/markdown.md)
 
 * [html](https://github.com/olivier-portal/mes-cours/blob/main/Languages/html/html.md)
     * [bootstrap (wireframe)](https://github.com/olivier-portal/mes-cours/blob/main/Languages/html/Bootstrap.md)
